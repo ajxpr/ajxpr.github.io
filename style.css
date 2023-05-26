@@ -71,7 +71,7 @@ nav ul li a:hover:after {
   color: #1F51FF;
 }
 .content {
-  position: absolute;
+  position: relative;
   top: 35%;
   left: 50%;
 }
