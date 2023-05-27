@@ -72,7 +72,7 @@ nav ul li a:hover:after {
 }
 .content {
   position: relative;
-  top: 35%;
+  top: 50%;
   left: 30%;
 }
 .content .title {
@@ -108,6 +108,6 @@ nav ul li a:hover:after {
   width: 55%;
   color: #202020;
   align-items: center;
-  margin-top: 40px;
+  margin-top: 25px;
   margin-bottom: 40px;
 }
