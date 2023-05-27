@@ -73,7 +73,7 @@ nav ul li a:hover:after {
 .content {
   position: relative;
   top: 35%;
-  left: 50%;
+  left: 30%;
 }
 .content .title {
   color: #0a0a0a;
@@ -109,5 +109,5 @@ nav ul li a:hover:after {
   color: #202020;
   align-items: center;
   margin-top: 25px;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
